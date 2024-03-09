@@ -1,2 +1,2 @@
 # google_git
-google git course
+google git course repo
